@@ -42,5 +42,6 @@ You can use Cbor Serializer. You can configure that in the application.conf file
 
 ### Steps to run
 
-sbt "project banking" run
+1. Run Cassandra on your local
+2. sbt "project banking" run
 
