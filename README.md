@@ -42,6 +42,6 @@ You can use Cbor Serializer. You can configure that in the application.conf file
 
 ### Steps to run
 
-1. Run Cassandra on your local
+1. Run Cassandra on your localhost (`./runCassandra.sh`, need docker)
 2. sbt "project banking" run
 
